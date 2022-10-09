@@ -1,9 +1,11 @@
 body {
-  box-sizing: border-box;
-  background-image: url("cookies.jpg");
-  background-size: contain;
-  font-family: "Open Sans", "Helvetica Neue", sans-serif;
-  text-align: center;
+    box-sizing: border-box;
+    background-image: url("cookies.jpg");
+    background-size: cover;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    text-align: center;
+    height: 100vh;
+    background-repeat: no-repeat;
 }
 
 .container {
